@@ -9,7 +9,7 @@ You will need an archlinux gitlab account to utilise this.
 ## Features
 - Automatically fetch, build & reinstall all installed packages.
 - Automatically fetch, build & install updated packages (without recompiling the rest of the system) (TODO)
-- A lockfile, so that running multiple of this program at the same time doesn't break anything.
+- A lockfile, so that running multiple of this program at the same time doesn't break anything. (TODO)
 
 ## Dependencies
 - Bash (not just any shell, specifically bash.)
