@@ -17,6 +17,7 @@ Gentoo *does* build from source by default, but I don't like dealing with use fl
 - A lockfile, so that running multiple of this program at the same time doesn't break anything. (TODO)
 - Config file and command-line options (TODO)
 - Publish this project to AUR (TODO)
+- Option for parallel downloads (TODO)
 - Behind a config option, support AUR packages, similar to AUR wrappers (TODO)
 - Config option to manually set a different git url, for use on arch-derivative distros (TODO)
 
