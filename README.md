@@ -16,7 +16,8 @@ Gentoo *does* build from source by default, but I don't like dealing with use fl
 - Pacman hook or *something* so that this doesn't break on `pacman -Syu` (TODO)
 - A lockfile, so that running multiple of this program at the same time doesn't break anything. (TODO)
 - Config file and command-line options (TODO)
-- Behind a config option, also support AUR packages, similar to AUR wrappers (TODO)
+- Publish this project to AUR (TODO)
+- Behind a config option, support AUR packages, similar to AUR wrappers (TODO)
 
 ## Dependencies
 - Bash (not just any shell, specifically bash.)
