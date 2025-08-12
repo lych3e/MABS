@@ -7,7 +7,7 @@ I wrote this so that I could utilise various compile-time optimisations without 
 You will need an archlinux gitlab account to utilise this.
 
 ## Why not just use Gentoo?
-Gentoo *does* build from source by default, but I don't like dealing with use flags and such.
+Gentoo *does* build from source by default, but I don't like dealing with use flags and other such things.
 (plus, the AUR targets Arch, not gentoo, and I like the AUR)
 
 ## Features
